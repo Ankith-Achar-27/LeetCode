@@ -20,8 +20,7 @@ public class SearchInsert {
             }
         }
 
-        return left;
-    }
+        return left;    }
     public static void main(String[] args){
         int[] num = {1,3,5,6};
         int target = 7;//target = 2 or 5
