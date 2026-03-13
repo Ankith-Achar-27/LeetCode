@@ -20,6 +20,8 @@ public class Cieling {
             else if(tar==nums[mid])
                 return mid;
         }
-        return start;
+        return start; 
+        // return end;   (if want to return floor of the target if not found)
     }
 }
+
