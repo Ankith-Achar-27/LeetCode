@@ -1,9 +1,9 @@
 // Mountain Array where the peak element is somewhere in between two elements
 
-public class MountainArray {
+public class Medium_MountainArray {
     public static void main(String[] args) {
         int[] arr = {0,1,0};
-        MountainArray obj = new  MountainArray();
+        Medium_MountainArray obj = new  Medium_MountainArray();
         System.out.println(obj.peakIndexInMountainArray(arr));
     }
     public int peakIndexInMountainArray(int[] arr) {
