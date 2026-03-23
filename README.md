@@ -13,6 +13,7 @@ Example structure:
 ```
 LeetCode
 │
+LeetCode
 ├── Arrays
 │   ├── Easy
 │   │   ├── LongestCommonPrefix_14.java
@@ -25,7 +26,6 @@ LeetCode
 │   ├── Medium
 │   └── Hard
 ```
-
 ## Approach
 
 * Solutions are written in **Java**
