@@ -10,7 +10,9 @@ Problems are organized using the hierarchy:
 
 Example structure:
 
+```
 LeetCode
+│
 ├── Arrays
 │   ├── Easy
 │   │   ├── LongestCommonPrefix_14.java
@@ -22,6 +24,7 @@ LeetCode
 │   ├── Easy
 │   ├── Medium
 │   └── Hard
+```
 
 ## Approach
 
