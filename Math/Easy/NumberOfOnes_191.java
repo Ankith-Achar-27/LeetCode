@@ -1,8 +1,8 @@
 
-public class NumberOfOnes {
+public class NumberOfOnes_191 {
     static void main() {
         int n=128;
-        NumberOfOnes obj = new NumberOfOnes();
+        NumberOfOnes_191 obj = new NumberOfOnes_191();
         System.out.println(obj.hammingWeight(n));
     }
     public int hammingWeight(int n) {
