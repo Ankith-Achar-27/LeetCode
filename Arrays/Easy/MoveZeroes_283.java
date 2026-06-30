@@ -2,18 +2,18 @@ package Easy;
 
 import java.util.Arrays;
 
-class MoveZeroesTestCase{
+class TestCase_283{
     int[] nums;
-    MoveZeroesTestCase(int[] nums){
+    TestCase_283(int[] nums){
         this.nums=nums;
     }
 }
 
 public class MoveZeroes_283 {
     public static void main(String[] args) {
-        MissingNumberTestCase test1 = new MissingNumberTestCase(new int[]{0, 1, 0, 3, 12});
-        MissingNumberTestCase test2 = new MissingNumberTestCase(new int[]{1,0,1});
-        MissingNumberTestCase test3 = new MissingNumberTestCase(new int[]{0});
+        TestCase_283 test1 = new TestCase_283(new int[]{0, 1, 0, 3, 12});
+        TestCase_283 test2 = new TestCase_283(new int[]{1,0,1});
+        TestCase_283 test3 = new TestCase_283(new int[]{0});
 
         moveZeroes(test1.nums);
         System.out.println("Test Case1 result: " + Arrays.toString(test1.nums));
