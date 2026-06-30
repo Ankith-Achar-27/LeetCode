@@ -1,16 +1,16 @@
 import java.util.Arrays;
 
-class TestCase{
+class ReverseStringTestCase {
     char[] str;
-    TestCase(char[] s){
+    ReverseStringTestCase(char[] s){
         this.str=s;
     }
 }
 
 public class ReverseString_344 {
     public static void main(String[] args) {
-        TestCase test1 = new TestCase(new char[]{'h', 'e', 'l', 'l', 'o'});
-        TestCase test2 = new TestCase(new char[]{'H', 'a', 'n', 'n', 'a','h'});
+        ReverseStringTestCase test1 = new ReverseStringTestCase(new char[]{'h', 'e', 'l', 'l', 'o'});
+        ReverseStringTestCase test2 = new ReverseStringTestCase(new char[]{'H', 'a', 'n', 'n', 'a','h'});
 
         reverseString(test1.str);
         System.out.println("Test Case1 Solution: "+ Arrays.toString(test1.str));
