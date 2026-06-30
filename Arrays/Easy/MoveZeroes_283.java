@@ -11,9 +11,9 @@ class MoveZeroesTestCase{
 
 public class MoveZeroes_283 {
     public static void main(String[] args) {
-        MoveZeroesTestCase test1 = new MoveZeroesTestCase(new int[]{0, 1, 0, 3, 12});
-        MoveZeroesTestCase test2 = new MoveZeroesTestCase(new int[]{1,0,1});
-        MoveZeroesTestCase test3 = new MoveZeroesTestCase(new int[]{0});
+        MissingNumberTestCase test1 = new MissingNumberTestCase(new int[]{0, 1, 0, 3, 12});
+        MissingNumberTestCase test2 = new MissingNumberTestCase(new int[]{1,0,1});
+        MissingNumberTestCase test3 = new MissingNumberTestCase(new int[]{0});
 
         moveZeroes(test1.nums);
         System.out.println("Test Case1 result: " + Arrays.toString(test1.nums));
