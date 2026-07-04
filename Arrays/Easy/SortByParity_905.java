@@ -2,16 +2,16 @@ package Easy;
 
 import java.util.Arrays;
 
-class TestCase_41{
+class TestCase_905 {
     int [] nums;
-    TestCase_41(int[] nums){
+    TestCase_905(int[] nums){
         this.nums=nums;
     }
 }
 public class SortByParity_905 {
     public static void main(String[] args) {
-        TestCase_41 test1 = new TestCase_41(new int[] {3,1,2,4});
-        TestCase_41 test2 = new TestCase_41(new int[]{0});
+        TestCase_905 test1 = new TestCase_905(new int[] {3,1,2,4});
+        TestCase_905 test2 = new TestCase_905(new int[]{0});
 
         System.out.println("Test1 : "+Arrays.toString(sortArrayByParity(test1.nums)));
         System.out.println("Test2 :"+Arrays.toString(sortArrayByParity(test2.nums)));
