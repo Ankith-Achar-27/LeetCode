@@ -25,6 +25,7 @@ LeetCode
 │   ├── Easy
 │   ├── Medium
 │   └── Hard
+
 ```
 ## Approach
 
@@ -37,8 +38,8 @@ LeetCode
 
 * Arrays
 * Binary Search
-* Bit Manipulation
-* Algorithmic Patterns
+* Math
+* String
 
 (More topics will be added as practice progresses.)
 
