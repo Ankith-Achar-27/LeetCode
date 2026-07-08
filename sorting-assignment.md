@@ -1,23 +1,23 @@
 # LeetCode Sorting Assignment
 
-**Progress:** 0/42
+**Progress:** 16/42
 
 ---
 
 ## Easy (30)
 
-- [ ] 88. Merge Sorted Array
-- [ ] 169. Majority Element
-- [ ] 217. Contains Duplicate
-- [ ] 268. Missing Number
+- [x] 88. Merge Sorted Array
+- [x] 169. Majority Element
+- [x] 217. Contains Duplicate
+- [x] 268. Missing Number
 - [ ] 349. Intersection of Two Arrays
 - [ ] 350. Intersection of Two Arrays II
-- [ ] 414. Third Maximum Number
-- [ ] 455. Assign Cookies
+- [x] 414. Third Maximum Number
+- [x] 455. Assign Cookies
 - [ ] 561. Array Partition I
-- [ ] 628. Maximum Product of Three Numbers
-- [ ] 905. Sort Array By Parity
-- [ ] 922. Sort Array By Parity II
+- [x] 628. Maximum Product of Three Numbers
+- [x] 905. Sort Array By Parity
+- [x] 922. Sort Array By Parity II
 - [ ] 976. Largest Perimeter Triangle
 - [ ] 977. Squares of a Sorted Array
 - [ ] 1030. Matrix Cells in Distance Order
@@ -33,9 +33,9 @@
 - [ ] 1502. Can Make Arithmetic Progression From Sequence
 - [ ] 1636. Sort Array by Increasing Frequency
 - [ ] 1608. Special Array With X Elements Greater Than or Equal X
-- [ ] 448. Find All Numbers Disappeared in an Array
-- [ ] 645. Set Mismatch
-- [ ] 1. Two Sum
+- [x] 448. Find All Numbers Disappeared in an Array
+- [x] 645. Set Mismatch
+- [x] 1. Two Sum
 
 ---
 
@@ -46,24 +46,24 @@
 - [ ] 18. 4Sum
 - [ ] 49. Group Anagrams
 - [ ] 56. Merge Intervals
-- [ ] 75. Sort Colors
+- [x] 75. Sort Colors
 - [ ] 147. Insertion Sort List
 - [ ] 148. Sort List
 - [ ] 179. Largest Number
 - [ ] 215. Kth Largest Element in an Array
-- [ ] 287. Find the Duplicate Number
-- [ ] 442. Find All Duplicates in an Array
+- [x] 287. Find the Duplicate Number
+- [x] 442. Find All Duplicates in an Array
 
 ---
 
 ## Hard (1)
 
-- [ ] 41. First Missing Positive
+- [x] 41. First Missing Positive
 
 ---
 
 **Total**
-- Easy: 30
-- Medium: 12
-- Hard: 1
-- **Total: 43 LeetCode problems**
+- Easy: 12/30
+- Medium: 3/12
+- Hard: 1/1
+- **Total: 16/43 LeetCode problems**

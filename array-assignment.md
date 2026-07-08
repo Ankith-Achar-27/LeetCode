@@ -1,6 +1,6 @@
 # LeetCode Array Assignment
 
-**Progress:** 0/40
+**Progress:** 9/40
 
 ---
 
@@ -59,8 +59,8 @@
 
 ---
 
-## Progress Log
-
-| Date | Problems Solved | Total |
-|------|-----------------|-------|
-|      |                 | 9/40  |
+**Total**
+- Easy: 6/28
+- Medium: 2/10
+- Hard: 1/2
+- **Total: 19/39 LeetCode problems**
