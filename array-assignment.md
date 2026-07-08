@@ -1,13 +1,13 @@
 # LeetCode Array Assignment
 
-**Progress:** 10/40
+**Progress:** 11/40
 
 ---
 
 ## Easy (28)
 
 - [ ] 1920.  Build Array from Permutation
-- [ ] 1929. Concatenation of Array
+- [x] 1929. Concatenation of Array
 - [x] 1480. Running Sum of 1d Array
 - [x] 1672. Richest Customer Wealth
 - [ ] 1470. Shuffle the Array
@@ -60,7 +60,7 @@
 ---
 
 **Total**
-- Easy: 7/28
+- Easy: 8/28
 - Medium: 2/10
 - Hard: 1/2
 - **Total: 10/40 LeetCode problems**
