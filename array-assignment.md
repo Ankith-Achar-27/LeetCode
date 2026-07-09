@@ -45,7 +45,7 @@
 - [ ] 73. Set Matrix Zeroes
 - [ ] 238. Product of Array Except Self
 - [x] 34. Find First and Last Position of Element in Sorted Array
-- [ ] 55. Jump Game
+- [x] 55. Jump Game
 - [ ] 189. Rotate Array
 - [x] 75. Sort Colors
 - [ ] 198. House Robber
