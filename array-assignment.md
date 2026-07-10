@@ -1,6 +1,6 @@
 # LeetCode Array Assignment
 
-**Progress:** 11/40
+**Progress:** 15/40
 
 ---
 
@@ -10,8 +10,8 @@
 - [x] 1929. Concatenation of Array
 - [x] 1480. Running Sum of 1d Array
 - [x] 1672. Richest Customer Wealth
-- [ ] 1470. Shuffle the Array
-- [ ] 1431. Kids With the Greatest Number of Candies
+- [x] 1470. Shuffle the Array
+- [x] 1431. Kids With the Greatest Number of Candies
 - [ ] 1512. Number of Good Pairs
 - [ ] 1365. How Many Numbers Are Smaller Than the Current Number
 - [ ] 1389. Create Target Array in the Given Order
@@ -46,7 +46,7 @@
 - [ ] 238. Product of Array Except Self
 - [x] 34. Find First and Last Position of Element in Sorted Array
 - [x] 55. Jump Game
-- [ ] 189. Rotate Array
+- [x] 189. Rotate Array
 - [x] 75. Sort Colors
 - [ ] 198. House Robber
 
@@ -60,7 +60,7 @@
 ---
 
 **Total**
-- Easy: 8/28
-- Medium: 2/10
+- Easy: 10/28
+- Medium: 4/10
 - Hard: 1/2
-- **Total: 10/40 LeetCode problems**
+- **Total: 15/40 LeetCode problems**
