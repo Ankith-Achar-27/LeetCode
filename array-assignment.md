@@ -1,6 +1,6 @@
 # LeetCode Array Assignment
 
-**Progress:** 15/40
+**Progress:** 18/40
 
 ---
 
@@ -43,7 +43,7 @@
 - [x] 59. Spiral Matrix II
 - [ ] 885. Spiral Matrix III
 - [ ] 73. Set Matrix Zeroes
-- [ ] 238. Product of Array Except Self
+- [x] 238. Product of Array Except Self
 - [x] 34. Find First and Last Position of Element in Sorted Array
 - [x] 55. Jump Game
 - [x] 189. Rotate Array
@@ -61,6 +61,6 @@
 
 **Total**
 - Easy: 10/28
-- Medium: 4/10
+- Medium: 7/10
 - Hard: 1/2
-- **Total: 15/40 LeetCode problems**
+- **Total: 18/40 LeetCode problems**
