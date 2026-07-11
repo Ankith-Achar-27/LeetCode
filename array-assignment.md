@@ -40,7 +40,7 @@
 ## Medium (10)
 
 - [x] 54. Spiral Matrix
-- [ ] 59. Spiral Matrix II
+- [x] 59. Spiral Matrix II
 - [ ] 885. Spiral Matrix III
 - [ ] 73. Set Matrix Zeroes
 - [ ] 238. Product of Array Except Self
