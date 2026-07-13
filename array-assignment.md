@@ -1,6 +1,6 @@
 # LeetCode Array Assignment
 
-**Progress:** 19/40
+**Progress:** 22/40
 
 ---
 
@@ -13,11 +13,11 @@
 - [x] 1470. Shuffle the Array
 - [x] 1431. Kids With the Greatest Number of Candies
 - [ ] 1512. Number of Good Pairs
-- [ ] 1365. How Many Numbers Are Smaller Than the Current Number
-- [ ] 1389. Create Target Array in the Given Order
+- [x] 1365. How Many Numbers Are Smaller Than the Current Number
+- [x] 1389. Create Target Array in the Given Order
 - [ ] 1832. Check if the Sentence Is Pangram
 - [ ] 1773. Count Items Matching a Rule
-- [ ] 1732. Find the Highest Altitude
+- [x] 1732. Find the Highest Altitude
 - [ ] 832. Flipping an Image
 - [ ] 1252. Cells with Odd Values in a Matrix
 - [ ] 1572. Matrix Diagonal Sum
@@ -60,7 +60,7 @@
 ---
 
 **Total**
-- Easy: 10/28
+- Easy: 13/28
 - Medium: 8/10
 - Hard: 1/2
-- **Total: 19/40 LeetCode problems**
+- **Total: 22/40 LeetCode problems**
