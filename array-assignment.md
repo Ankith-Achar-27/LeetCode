@@ -1,6 +1,6 @@
 # LeetCode Array Assignment
 
-**Progress:** 22/40
+**Progress:** 23/40
 
 ---
 
@@ -15,7 +15,7 @@
 - [ ] 1512. Number of Good Pairs
 - [x] 1365. How Many Numbers Are Smaller Than the Current Number
 - [x] 1389. Create Target Array in the Given Order
-- [ ] 1832. Check if the Sentence Is Pangram
+- [x] 1832. Check if the Sentence Is Pangram
 - [ ] 1773. Count Items Matching a Rule
 - [x] 1732. Find the Highest Altitude
 - [ ] 832. Flipping an Image
@@ -60,7 +60,7 @@
 ---
 
 **Total**
-- Easy: 13/28
+- Easy: 14/28
 - Medium: 8/10
 - Hard: 1/2
-- **Total: 22/40 LeetCode problems**
+- **Total: 23/40 LeetCode problems**
