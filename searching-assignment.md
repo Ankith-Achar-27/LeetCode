@@ -19,8 +19,8 @@
 - [x] 744. Find Smallest Letter Greater Than Target
 - [x] 852. Peak Index in a Mountain Array
 - [x] 888. Fair Candy Swap
-- [ ] 1346. Check If N and Its Double Exist
-- [ ] 1351. Count Negative Numbers in a Sorted Matrix
+- [x] 1346. Check If N and Its Double Exist
+- [x] 1351. Count Negative Numbers in a Sorted Matrix
 - [ ] 1539. Kth Missing Positive Number
 - [ ] 1608. Special Array With X Elements Greater Than or Equal X
 
@@ -59,7 +59,7 @@
 ---
 
 **Total**
-- Easy: 11/17
+- Easy: 13/17
 - Medium: 6/17
 - Hard: 2/5
-- **Total: 19/39 LeetCode problems**
+- **Total: 21/39 LeetCode problems**
