@@ -1,6 +1,6 @@
 # LeetCode Sorting Assignment
 
-**Progress:** 16/42
+**Progress:** 17/43
 
 ---
 
@@ -41,7 +41,7 @@
 
 ## Medium (12)
 
-- [ ] 15. 3Sum
+- [x] 15. 3Sum
 - [ ] 16. 3Sum Closest
 - [ ] 18. 4Sum
 - [ ] 49. Group Anagrams
@@ -64,6 +64,6 @@
 
 **Total**
 - Easy: 12/30
-- Medium: 3/12
+- Medium: 4/12
 - Hard: 1/1
-- **Total: 16/43 LeetCode problems**
+- **Total: 17/43 LeetCode problems**
