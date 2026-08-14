@@ -1,6 +1,6 @@
 # LeetCode Recursion Assignment
 
-**Progress:** 1/40
+**Progress:** 2/40
 
 ---
 
@@ -9,7 +9,7 @@
 - [ ] 704. Binary Search
 - [ ] 344. Reverse String
 - [ ] 509. Fibonacci Number
-- [ ] 231. Power of Two
+- [x] 231. Power of Two
 - [ ] 326. Power of Three
 - [ ] 342. Power of Four
 - [x] 1342. Number of Steps to Reduce a Number to Zero
@@ -60,7 +60,7 @@
 ---
 
 **Total**
-- Easy: 1/7
+- Easy: 2/7
 - Medium: 0/22
 - Hard: 0/11
-- **Total: 0/40 LeetCode problems**
+- **Total: 2/40 LeetCode problems**
