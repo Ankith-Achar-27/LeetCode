@@ -1,12 +1,12 @@
 # LeetCode Recursion Assignment
 
-**Progress:** 04/40
+**Progress:** 05/40
 
 ---
 
 ## Easy (7)
 
-- [ ] 704. Binary Search
+- [x] 704. Binary Search
 - [ ] 344. Reverse String
 - [ ] 509. Fibonacci Number
 - [x] 231. Power of Two
@@ -60,7 +60,7 @@
 ---
 
 **Total**
-- Easy: 4/7
+- Easy: 5/7
 - Medium: 0/22
 - Hard: 0/11
-- **Total: 4/40 LeetCode problems**
+- **Total: 5/40 LeetCode problems**
