@@ -1,6 +1,6 @@
 # LeetCode Recursion Assignment
 
-**Progress:** 03/40
+**Progress:** 04/40
 
 ---
 
@@ -11,7 +11,7 @@
 - [ ] 509. Fibonacci Number
 - [x] 231. Power of Two
 - [x] 326. Power of Three
-- [ ] 342. Power of Four
+- [x] 342. Power of Four
 - [x] 1342. Number of Steps to Reduce a Number to Zero
 
 ---
@@ -60,7 +60,7 @@
 ---
 
 **Total**
-- Easy: 3/7
+- Easy: 4/7
 - Medium: 0/22
 - Hard: 0/11
-- **Total: 3/40 LeetCode problems**
+- **Total: 4/40 LeetCode problems**
