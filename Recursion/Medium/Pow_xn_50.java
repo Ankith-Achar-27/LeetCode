@@ -17,7 +17,7 @@ public class Pow_xn_50 {
             return 1;
         }
 
-        double half = Math.pow(x,n/2);
+        double half = helper(x,n/2);
 
         if(n%2==0){
             return half*half;
