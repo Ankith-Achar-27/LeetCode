@@ -1,6 +1,6 @@
 # LeetCode Recursion Assignment
 
-**Progress:** 07/40
+**Progress:** 08/40
 
 ---
 
@@ -24,7 +24,7 @@
 - [ ] 1545. Find Kth Bit in Nth Binary String
 - [ ] 779. K-th Symbol in Grammar
 - [ ] 1922. Count Good Numbers
-- [ ] 50. Pow(x, n)
+- [x] 50. Pow(x, n)
 - [ ] 1969. Minimum Non-Zero Product of the Array Elements
 - [ ] 279. Perfect Squares
 - [ ] 394. Decode String
@@ -61,6 +61,6 @@
 
 **Total**
 - Easy: 7/7
-- Medium: 0/22
+- Medium: 1/22
 - Hard: 0/11
-- **Total: 7/40 LeetCode problems**
+- **Total: 8/40 LeetCode problems**
